@@ -1,0 +1,6 @@
+{
+  "name": "ميقات — منظم المواعيد والتقويم",
+  "description": "تطبيق احترافي لتنظيم المواعيد اليومية بالساعة مع دعم التكرار (يومي، أسبوعي، شهري، سنوي)، التنبيهات الذكية، والربط مع تقويم Google Calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
